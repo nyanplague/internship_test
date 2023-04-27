@@ -1,7 +1,8 @@
 Open the terminal inside the project and enter the following commands:
 
-docker build . -t docker_python
-docker run -d -p 5000:5000 docker_python
+1) docker build . -t docker_python
+2) docker run -d -p 5000:5000 docker_python
+
 Use the app on your local host with 5000 port.
 
 Without Limit:
